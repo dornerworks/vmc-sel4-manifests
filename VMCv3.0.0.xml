@@ -18,6 +18,7 @@
   <project name="camkes-vm"              path="projects/camkes-vm"         />
   <project name="camkes-vm-linux"        path="projects/camkes-vm-linux"   />
   <project name="projects_libs"          path="projects/projects_libs"     />
+  <project name="vmc_sel4_cache"         path=".sel4_cache"                />
 
   <project name="camkes-vm-apps" path="projects/vm-apps">
     <linkfile dest="easy-settings.cmake" src="easy-settings.cmake"/>
