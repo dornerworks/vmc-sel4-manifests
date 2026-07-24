@@ -3,7 +3,7 @@
   <remote name="seL4" fetch="https://github.com/seL4"/>
   <remote name="dw" fetch="https://github.com/dornerworks"/>
 
-  <default remote="dw" revision="VMCv3.0.0"/>
+  <default remote="dw" revision="refs/tags/VMCv3.0.0"/>
 
   <project name="musllibc"    path="projects/musllibc"    remote="seL4" revision="9798aedbc3ee5fa3c1d7f788e9312df9203e7b0b"/>
   <project name="sel4runtime" path="projects/sel4runtime" remote="seL4" revision="86489cf6efab9f314964e79468c036e9035394c7"/>
